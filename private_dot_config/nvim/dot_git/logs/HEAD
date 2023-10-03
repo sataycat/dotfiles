@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 f764b0a599dffe31098368c565b811b93c1f3773 chong <yeongeechong@gmail.com> 1674484458 +0800	clone: from https://github.com/LazyVim/starter
+f764b0a599dffe31098368c565b811b93c1f3773 9ad6acdff121ad344cebeb640b48e6ed4d5a8f58 chong <yeongeechong@gmail.com> 1678014621 +0800	pull: Fast-forward
+9ad6acdff121ad344cebeb640b48e6ed4d5a8f58 d53e3fabfa5c0a804d4ea2a8c57d673490375176 chong <yeongeechong@gmail.com> 1678509482 +0800	commit: config
+d53e3fabfa5c0a804d4ea2a8c57d673490375176 d53e3fabfa5c0a804d4ea2a8c57d673490375176 chong <yeongeechong@gmail.com> 1693841094 +0800	reset: moving to HEAD
+d53e3fabfa5c0a804d4ea2a8c57d673490375176 9ad6acdff121ad344cebeb640b48e6ed4d5a8f58 chong <yeongeechong@gmail.com> 1693841094 +0800	[lazygit undo]: updating HEAD
+9ad6acdff121ad344cebeb640b48e6ed4d5a8f58 a13d5c90769ce6177d1e27b46efd967ed52c1d68 chong <yeongeechong@gmail.com> 1693841108 +0800	pull --no-edit --ff-only origin main: Fast-forward
